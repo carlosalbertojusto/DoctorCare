@@ -541,7 +541,7 @@ footer .social-links {
     filter: initial;
   }
 
-  nav#navigation .close-menu,
+  nav#navigation .open-menu,
   nav#navigation .close-menu,
   nav#navigation .social-links {
     display: none;
